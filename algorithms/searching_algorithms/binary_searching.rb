@@ -25,5 +25,5 @@ result = binarySearch(arr, 0, arr.count-1, x)
 if result != -1
   puts "Element is present at index #{result}"
 else
-  puts "Element is not present in array"
+  puts "Element is not present in arr"
 end
